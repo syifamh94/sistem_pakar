@@ -1,2 +1,2 @@
-# sistem_pakar
-sistem pakar disorder conduct
+# sitem-pakar-dm
+Sistem Pakar DM
